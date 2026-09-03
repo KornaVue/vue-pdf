@@ -4,11 +4,11 @@
 </div>
 
 
-![Version](https://img.shields.io/npm/v/@tato30/vue-pdf?style=flat-square)
-![pdf.js version](https://img.shields.io/npm/dependency-version/%40tato30%2Fvue-pdf/pdfjs-dist)
-![Downloads](https://img.shields.io/npm/dw/@tato30/vue-pdf?style=flat-square)
-![Licence](https://img.shields.io/npm/l/@tato30/vue-pdf?style=flat-square)
-![GitHub Sponsors](https://img.shields.io/github/sponsors/tato30)
+[![Version](https://img.shields.io/npm/v/@tato30/vue-pdf?style=flat-square)](https://www.npmjs.com/package/@tato30/vue-pdf)
+[![pdf.js version](https://img.shields.io/npm/dependency-version/%40tato30%2Fvue-pdf/pdfjs-dist)](https://github.com/mozilla/pdf.js)
+[![Downloads](https://img.shields.io/npm/dw/@tato30/vue-pdf?style=flat-square)](https://www.npmjs.com/package/@tato30/vue-pdf)
+[![Licence](https://img.shields.io/npm/l/@tato30/vue-pdf?style=flat-square)](https://github.com/TaTo30/vue-pdf?tab=MIT-1-ov-file)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/tato30)](https://ko-fi.com/tato30)
 
 
 <div align="center">
